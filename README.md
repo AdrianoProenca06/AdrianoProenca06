@@ -53,7 +53,7 @@ Exploring **Information Security**
 
 Improving my **Programming Logic & Algorithms**
 
-**Multilingual:** Portuguese, English, French, German, Italian & Romansh
+**Multilingual:** Portuguese, English, French, German, Italian, Spanish & Romansh
 
 Always looking for new challenges and opportunities to learn
 
@@ -91,15 +91,19 @@ Working toward becoming a **professional Software Developer**
 <br>
 
 ### Problem Solving
+
 I enjoy breaking complex problems into smaller parts, understanding their logic, and finding practical solutions.
 
 ### Curiosity
+
 I like understanding **why things work**, not only learning how to use them.
 
 ### Continuous Learning
+
 Technology is constantly evolving, and I'm always looking for opportunities to expand my knowledge.
 
 ### Logical Thinking
+
 I enjoy working with programming logic, algorithms, and structured approaches to solving problems.
 
 ---
@@ -248,6 +252,14 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 </td>
 
 <td align="center" width="125">
+<img src="https://flagcdn.com/w40/es.png" width="32" alt="Spain">
+<br><br>
+<b>Spanish</b>
+<br>
+<sub>Basic</sub>
+</td>
+
+<td align="center" width="125">
 <img src="https://flagcdn.com/w40/ch.png" width="32" alt="Switzerland">
 <br><br>
 <b>Romansh</b>
@@ -260,7 +272,7 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 <br>
 
-`PORTUGUESE` • `ENGLISH` • `FRENCH` • `GERMAN` • `ITALIAN` • `ROMANSH`
+`PORTUGUESE` • `ENGLISH` • `FRENCH` • `GERMAN` • `ITALIAN` • `SPANISH` • `ROMANSH`
 
 </div>
 
