@@ -1,8 +1,9 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:0969DA,100:58A6FF&text=ADRIANO%20PROENÇA%20BARBOSA&fontColor=ffffff&fontSize=36&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=57&descSize=19&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&lines=Hello%2C+I'm+Adriano!+%F0%9F%91%8B;Software+Engineering+Student;Web+Development+%7C+Databases;Learn.+Build.+Solve.+Improve.;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&lines=Hello%2C+I'm+Adriano!;Software+Engineering+Student;Web+Development+%7C+Databases;Learn.+Build.+Solve.+Improve.;Turning+Ideas+Into+Code" />
 
 <br/>
 
@@ -28,9 +29,9 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-### Hey there! I'm Adriano. 👋
+### Hey there! I'm Adriano.
 
 I'm **Adriano Proença Barbosa**, a **Software Engineering student** passionate about technology, programming, and turning ideas into real solutions.
 
@@ -40,23 +41,23 @@ I'm currently strengthening my foundations in **software development, web techno
 
 <br>
 
-🎓 Studying **Software Engineering**
+Studying **Software Engineering**
 
-💻 Building experience through **hands-on projects**
+Building experience through **hands-on projects**
 
-🌐 Interested in **Web Development**
+Interested in **Web Development**
 
-🗄️ Developing my knowledge in **Databases & SQL**
+Developing my knowledge in **Databases & SQL**
 
-🔐 Exploring **Information Security**
+Exploring **Information Security**
 
-🧠 Improving my **Programming Logic & Algorithms**
+Improving my **Programming Logic & Algorithms**
 
-🌍 **Multilingual:** Portuguese, English, French, German & Italian
+**Multilingual:** Portuguese, English, French, German, Italian & Romansh
 
-🚀 Always looking for new challenges and opportunities to learn
+Always looking for new challenges and opportunities to learn
 
-🎯 Working toward becoming a **professional Software Developer**
+Working toward becoming a **professional Software Developer**
 
 <br>
 
@@ -64,13 +65,13 @@ I'm currently strengthening my foundations in **software development, web techno
 
 ### `Curiosity drives me. Practice makes me better.`
 
-> **Every project is another step forward. 🚀**
+> **Every project is another step forward.**
 
 </div>
 
 ---
 
-# ✨ Personal Skills & Mindset
+# Personal Skills & Mindset
 
 <div align="center">
 
@@ -89,40 +90,40 @@ I'm currently strengthening my foundations in **software development, web techno
 
 <br>
 
-### 🧠 Problem Solving
+### Problem Solving
 I enjoy breaking complex problems into smaller parts, understanding their logic, and finding practical solutions.
 
-### 🔎 Curiosity
+### Curiosity
 I like understanding **why things work**, not only learning how to use them.
 
-### 📚 Continuous Learning
+### Continuous Learning
 Technology is constantly evolving, and I'm always looking for opportunities to expand my knowledge.
 
-### ⚙️ Logical Thinking
+### Logical Thinking
 I enjoy working with programming logic, algorithms, and structured approaches to solving problems.
 
 ---
 
-# ⚡ What I'm Into
+# What I'm Into
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/💻_BUILDING-Projects-0969DA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠_LEARNING-Every_Day-8957E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_IMPROVING-My_Skills-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILDING-Projects-0969DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-Every_Day-8957E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IMPROVING-My_Skills-238636?style=for-the-badge"/>
 
 </div>
 
 <br>
 
-- 💻 **Coding & Projects** — turning what I learn into something I can actually build.
-- 🌐 **Web Development** — exploring how web experiences are created.
-- 🗄️ **Databases** — learning how information is structured, organized, and managed.
-- 🧠 **Algorithms & Logic** — improving the way I approach programming problems.
-- 🔐 **Information Security** — exploring security concepts and how systems can be better protected.
-- ⚙️ **Software Engineering** — understanding the process behind building good software.
-- 🌍 **Languages** — developing my ability to communicate beyond my native language.
-- 🚀 **Technology** — always curious about what's next.
+- **Coding & Projects** — turning what I learn into something I can actually build.
+- **Web Development** — exploring how web experiences are created.
+- **Databases** — learning how information is structured, organized, and managed.
+- **Algorithms & Logic** — improving the way I approach programming problems.
+- **Information Security** — exploring security concepts and how systems can be better protected.
+- **Software Engineering** — understanding the process behind building good software.
+- **Languages** — developing my ability to communicate beyond my native language.
+- **Technology** — always curious about what's next.
 
 <br>
 
@@ -134,11 +135,11 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
-## 💻 Programming & Web
+## Programming & Web
 
 <br>
 
@@ -154,7 +155,7 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 <br><br>
 
-## 🗄️ Databases
+## Databases
 
 <img src="https://img.shields.io/badge/SQL-Fundamentals-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Database-Modeling-0969DA?style=for-the-badge"/>
@@ -165,7 +166,7 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 <br><br>
 
-## ⚙️ Tools
+## Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
@@ -177,7 +178,7 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 ---
 
-# 🧩 Knowledge & Concepts
+# Knowledge & Concepts
 
 <div align="center">
 
@@ -195,7 +196,7 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 ---
 
-# 🌍 Languages
+# Languages
 
 <div align="center">
 
@@ -246,22 +247,30 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 <sub>Basic</sub>
 </td>
 
+<td align="center" width="125">
+<img src="https://flagcdn.com/w40/ch.png" width="32" alt="Switzerland">
+<br><br>
+<b>Romansh</b>
+<br>
+<sub>Basic</sub>
+</td>
+
 </tr>
 </table>
 
 <br>
 
-`PORTUGUESE` • `ENGLISH` • `FRENCH` • `GERMAN` • `ITALIAN`
+`PORTUGUESE` • `ENGLISH` • `FRENCH` • `GERMAN` • `ITALIAN` • `ROMANSH`
 
 </div>
 
 ---
 
-# 🚀 Currently Learning
+# Currently Learning
 
 <div align="center">
 
-| 💻 Programming | 🌐 Web Development | 🗄️ Databases |
+| Programming | Web Development | Databases |
 |:---:|:---:|:---:|
 | Programming Logic | HTML & CSS | SQL |
 | Algorithms | JavaScript | Database Modeling |
@@ -271,13 +280,13 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 ### `LEARNING IS A CONTINUOUS PROCESS`
 
-📚 Learn something → 💻 Practice it → 🧠 Understand it → 🚀 Improve it
+Learn something → Practice it → Understand it → Improve it
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -297,11 +306,11 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 ---
 
-# 📂 Projects & Portfolio
+# Projects & Portfolio
 
 <div align="center">
 
-## `BUILDING • LEARNING • IMPROVING` 🚀
+## `BUILDING • LEARNING • IMPROVING`
 
 </div>
 
@@ -313,9 +322,9 @@ Every project is an opportunity to transform theory into practice, experiment wi
 
 <div align="center">
 
-`💻 Programming` • `🌐 Web Development` • `🗄️ Databases`
+`Programming` • `Web Development` • `Databases`
 
-`🧠 Algorithms` • `🏗️ Software Engineering` • `🔐 Information Security`
+`Algorithms` • `Software Engineering` • `Information Security`
 
 <br><br>
 
@@ -327,7 +336,7 @@ Every project is an opportunity to transform theory into practice, experiment wi
 
 ---
 
-# 🎯 Professional Goal
+# Professional Goal
 
 <div align="center">
 
@@ -339,30 +348,30 @@ My goal is to start my professional career in **Software Development**, applying
 
 I want to work in an environment where I can:
 
-- 💻 Build real software
-- 🧠 Solve meaningful problems
-- 🤝 Learn from experienced developers
-- 📈 Continuously improve my technical knowledge
-- 🚀 Transform challenges into experience
-- 🎯 Grow into a better Software Engineer
+- Build real software
+- Solve meaningful problems
+- Learn from experienced developers
+- Continuously improve my technical knowledge
+- Transform challenges into experience
+- Grow into a better Software Engineer
 
 <br>
 
 <div align="center">
 
-### `STUDENT` → `LEARNING` → `BUILDING` → `GROWING` → `SOFTWARE DEVELOPER 🚀`
+### `STUDENT` → `LEARNING` → `BUILDING` → `GROWING` → `SOFTWARE DEVELOPER`
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
 ### Have a project, opportunity, or just want to talk about technology?
 
-**I'd be happy to connect. 👋**
+**I'd be happy to connect.**
 
 <br>
 
