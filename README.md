@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:0969DA,100:58A6FF&text=ADRIANO%20PROENÇA%20BARBOSA&fontColor=ffffff&fontSize=36&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=57&descSize=19&animation=fadeIn" />
@@ -20,8 +19,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AdrianoProenca06&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS"/>
 
 ### `CODE • LEARN • SOLVE • IMPROVE • REPEAT`
 
@@ -311,8 +308,6 @@ Learn something → Practice it → Understand it → Improve it
 <img src="https://streak-stats.demolab.com?user=AdrianoProenca06&theme=tokyonight&hide_border=true"/>
 
 <br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianoProenca06&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
