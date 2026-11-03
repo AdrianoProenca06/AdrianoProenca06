@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:0969DA,100:58A6FF&text=ADRIANO%20PROENÇA%20BARBOSA&fontColor=ffffff&fontSize=36&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=57&descSize=19&animation=fadeIn" />
@@ -298,10 +299,6 @@ Learn something → Practice it → Understand it → Improve it
 # GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoProenca06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoProenca06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
