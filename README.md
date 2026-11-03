@@ -119,8 +119,6 @@ Working toward becoming a **professional Software Developer**
 
 <div align="center">
 
-### Connecting through code — and languages.
-
 <br>
 
 <table>
@@ -235,33 +233,15 @@ Every project is an opportunity to transform theory into practice, experiment wi
 
 <div align="center">
 
-### Have a project, opportunity, or just want to talk about technology?
-
-**I'd be happy to connect.**
-
-<br>
-
 <a href="https://www.linkedin.com/in/adriano-proenca-barbosa">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adrianopb2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AdrianoProenca06">
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br><br>
-
-### `while (learning) { build(); test(); improve(); }`
-
-<br>
-
-### *"Technology evolves every day — and so do I."*
-
-<br>
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,50:0969DA,100:58A6FF"/>
 
