@@ -18,10 +18,6 @@
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-### `CODE • LEARN • SOLVE • IMPROVE • REPEAT`
-
 </div>
 
 ---
@@ -55,16 +51,6 @@ Improving my **Programming Logic & Algorithms**
 Always looking for new challenges and opportunities to learn
 
 Working toward becoming a **professional Software Developer**
-
-<br>
-
-<div align="center">
-
-### `Curiosity drives me. Practice makes me better.`
-
-> **Every project is another step forward.**
-
-</div>
 
 ---
 
@@ -222,12 +208,6 @@ Working toward becoming a **professional Software Developer**
 ---
 
 # Projects & Portfolio
-
-<div align="center">
-
-## `BUILDING • LEARNING • IMPROVING`
-
-</div>
 
 My repositories represent my progress as a **Software Engineering student**.
 
