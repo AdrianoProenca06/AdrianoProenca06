@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:0969DA,100:58A6FF&text=ADRIANO%20PROENÇA%20BARBOSA&fontColor=ffffff&fontSize=36&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=57&descSize=19&animation=fadeIn" />
@@ -64,74 +63,6 @@ Working toward becoming a **professional Software Developer**
 ### `Curiosity drives me. Practice makes me better.`
 
 > **Every project is another step forward.**
-
-</div>
-
----
-
-# Personal Skills & Mindset
-
-<div align="center">
-
-### Beyond the code.
-
-*The way I approach technology, learning, and problem-solving.*
-
-<br>
-
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0969DA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CURIOSITY-8957E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-238636?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOGICAL%20THINKING-F78166?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-### Problem Solving
-
-I enjoy breaking complex problems into smaller parts, understanding their logic, and finding practical solutions.
-
-### Curiosity
-
-I like understanding **why things work**, not only learning how to use them.
-
-### Continuous Learning
-
-Technology is constantly evolving, and I'm always looking for opportunities to expand my knowledge.
-
-### Logical Thinking
-
-I enjoy working with programming logic, algorithms, and structured approaches to solving problems.
-
----
-
-# What I'm Into
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILDING-Projects-0969DA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARNING-Every_Day-8957E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IMPROVING-My_Skills-238636?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-- **Coding & Projects** — turning what I learn into something I can actually build.
-- **Web Development** — exploring how web experiences are created.
-- **Databases** — learning how information is structured, organized, and managed.
-- **Algorithms & Logic** — improving the way I approach programming problems.
-- **Information Security** — exploring security concepts and how systems can be better protected.
-- **Software Engineering** — understanding the process behind building good software.
-- **Languages** — developing my ability to communicate beyond my native language.
-- **Technology** — always curious about what's next.
-
-<br>
-
-<div align="center">
-
-### `Build things. Understand things. Build them better.`
 
 </div>
 
@@ -276,26 +207,6 @@ I enjoy working with programming logic, algorithms, and structured approaches to
 
 ---
 
-# Currently Learning
-
-<div align="center">
-
-| Programming | Web Development | Databases |
-|:---:|:---:|:---:|
-| Programming Logic | HTML & CSS | SQL |
-| Algorithms | JavaScript | Database Modeling |
-| Problem Solving | PHP | Data Organization |
-
-<br>
-
-### `LEARNING IS A CONTINUOUS PROCESS`
-
-Learn something → Practice it → Understand it → Improve it
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -335,35 +246,6 @@ Every project is an opportunity to transform theory into practice, experiment wi
 <a href="https://github.com/AdrianoProenca06?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# Professional Goal
-
-<div align="center">
-
-### From learning the fundamentals to building real software.
-
-</div>
-
-My goal is to start my professional career in **Software Development**, applying everything I'm learning in Software Engineering to real-world projects.
-
-I want to work in an environment where I can:
-
-- Build real software
-- Solve meaningful problems
-- Learn from experienced developers
-- Continuously improve my technical knowledge
-- Transform challenges into experience
-- Grow into a better Software Engineer
-
-<br>
-
-<div align="center">
-
-### `STUDENT` → `LEARNING` → `BUILDING` → `GROWING` → `SOFTWARE DEVELOPER`
 
 </div>
 
